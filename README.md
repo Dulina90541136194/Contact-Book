@@ -1,6 +1,6 @@
-# 📒 Contact Book
+#  Contact Book
 
-## 👤 Student Information
+##  Student Information
 
 - **Name:** Dulina Sanketh  
 - **ID No:** 90541136194   
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - View all saved contacts, sorted by last name
 - Add new contact with name and email
